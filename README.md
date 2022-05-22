@@ -11,7 +11,7 @@ Use numbers to navigate into the program.
 ### 1. Archive files
 
 1. Enter the path to create archive.        
-2. Enter the path to files to archive.
+2. Enter the path to files to archive.    
 ![img_1.png](images/img_1.png)
 
 ### 2. Add file to existing archive:
